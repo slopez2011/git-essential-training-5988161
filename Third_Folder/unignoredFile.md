@@ -1,0 +1,1 @@
+I'm not ignored by the .gitignore file.
